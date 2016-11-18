@@ -16,9 +16,11 @@ Check out a simplified version (thanks to the APiary service) of our [Surveys AP
 
 Here you can find examples of how to call each of the methods, for example:
 
-    curl --include "http://private-anon-114a6be78-surveysmock.apiary-mock.com/api/surveys"
+    curl --include 'https://private-5fb3f-surveysmock.apiary-mock.com/api/surveys'
     
-Use always the _Mock Server_ version URLs. Note: The above URL is an example and it can change, confirm the actual URL in the Apiary interface:
+Use always the _Mock Server_ version URLs. 
+
+**Note:** The above URL is an example and it can change, confirm the actual URL in the Apiary interface:
 
 ![FrontEndDeveloper_Challenge_Apiary_Interface](http://daliaassets.s3.amazonaws.com/Product/Dalia/HR/Recruiting/FrontEndDeveloper_Challenge_Apiary_Interface.png)
 
