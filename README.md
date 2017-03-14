@@ -4,7 +4,7 @@ For us, it is not all about the CV or titles. The most important for us is to kn
 
 In order to understand all this, we would like you to complete the following challenge. This is a simplified case which illustrates the kind of situations we have to deal with on a daily basis.
 
-This is a good opportunity to demonstrate your style and your capabilities. It is a way to show us which kind of code you like to create. It is your opportunity to impress us in some big or small detail.
+This is a good opportunity to demonstrate your style and your capabilities. It is a way to show us which kind of code you like to create. It is your opportunity to impress us in some big or small detail. The Challenge solution is very important for us, we not just understanding that you have code skills but we also trying to understand what are you quality minimals and how do you develop in a self-managed way.
 
 There are no time limitations but we suggest you don't spend more than a few hours on it. We are not looking for a bullet-proof solution but it has to be an elegant, clean, maintainable and intuitive approach.
 
